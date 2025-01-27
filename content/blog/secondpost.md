@@ -30,4 +30,6 @@ I gotta keep polishing up my skills by taking on more projects.
 
 Still gotta add a theme to this.
 
+God I take it for granted how it's as simple as edit the files then push them onto github. No more personal access token, no more running zola build and shit... 
+
 See you on the other side!!
