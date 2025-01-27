@@ -3,7 +3,7 @@ title = "Rockbox Retreat"
 date = "2024-12-31"
 +++
 
-Decided to go on a 3 day solo retreat to "think about life" or whatever. Wanted to bring music, cuz I didn't want it to just be an endless bout of silent contemplation, but a rekindling of the things that have inspired me; podcasts, media, art, music. Couldn't bring the damn phone though because we all know where that thing leads. Too distracting, too noisy.
+Decided to go on a 3 day solo retreat to "think about life" or whatever. Wanted to bring music, cuz I didn't want it to just be an endless bout of silent contemplation, but a rekindling of the things that have inspired me; podcasts, media, art, music. Couldn't bring the damn phone though because we all know where that thing leads. Too distracting, and way too noisy.
 
 Settled on getting an mp3 player. Like those ipods we had back then. We stopped using them due to the emergence of the smartphone, but there still is something inherently cozy about having just one device dedicated to music. It's like your little buddy that stays with you as you go around living your life. Listening to a sad song after a breakup, something poppy in a car, or something mellow on a walk. Having music downloaded feels more intimate and close than the lifeless streaming services we all have nowadays.
 
