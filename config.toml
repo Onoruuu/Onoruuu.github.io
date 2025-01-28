@@ -1,16 +1,31 @@
-# The URL the site will be built for
 base_url = "https://Onoruuu.github.io"
+theme = "no-style-please"
+title = "no style, please!"
+description = "A (nearly) no-CSS, fast, minimalist Zola theme."
 
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
+generate_feeds = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+taxonomies = [
+    { name = "tags" },
+    { name = "categories" },
+    { name = "contexts" },
+]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+author = "Ahmed Alaa"
+logo = "images/logo.png"
+header_nav = [
+    { name = "~home", url = "/no-style-please/" },
+    { name = "#tags", url = "/no-style-please/tags" },
+    { name = "+categories", url = "/no-style-please/categories" },
+    { name = "@contexts", url = "/no-style-please/contexts" },
+]
+footer_nav = [
+    { name = "< previous", url = "#" },
+    { name = "webring", url = "#" },
+    { name = "next >", url = "#" },
+]
