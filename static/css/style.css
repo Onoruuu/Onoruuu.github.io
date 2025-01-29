@@ -1,0 +1,30 @@
+/* static/css/style.css */
+body {
+    font-family: "IBM Plex Mono", "Courier New", monospace;
+    background-color: black; /* Optional: Keeps the dark theme */
+    color: #ffffff; /* Optional: Matches the green text */
+}
+
+a {
+    color: #e1e110;
+}
+
+/* Center the content block but keep text left-aligned */
+main {
+    max-width: 60ch;  /* Keeps the text at a readable width */
+    margin: 0 auto;   /* Centers the block horizontally */
+    text-align: left; /* Ensures text inside is left-aligned */
+}
+
+/* Keep headings centered */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Ensure lists, paragraphs, and regular text stay left-aligned */
+p, ul, ol, li {
+    text-align: left;
+}
+
+
+
