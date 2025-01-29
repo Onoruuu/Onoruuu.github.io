@@ -3,6 +3,8 @@ title = "what zola taught me"
 date = 2025-01-27
 +++
 
+[link to my github repository](https://Onoruuu.github.io)
+
 Thank you zola for teaching me much about computer science. Here's what I learned:
 
 - SSH keys and how they work
