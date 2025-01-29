@@ -1,5 +1,5 @@
 +++
-title = "I love zola!!!"
+title = "zola taught me so much..."
 date = 2025-01-27
 +++
 
