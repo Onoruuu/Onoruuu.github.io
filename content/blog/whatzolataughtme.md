@@ -3,7 +3,7 @@ title = "what zola taught me"
 date = 2025-01-27
 +++
 
-[link to my github repository](https://Onoruuu.github.io)
+[link to my github repository](https://github.com/Onoruuu/Onoruuu.github.io)
 
 Thank you zola for teaching me much about computer science. Here's what I learned:
 
