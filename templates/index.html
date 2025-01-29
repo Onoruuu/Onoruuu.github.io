@@ -1,8 +1,13 @@
+
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  welcome to my headspace.
+<main class="home">
+	<h1 class="title">	
+		welcome to my headspace.
 </h1>
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">posts</a></p>
+	<p><a href="{{ get_url(path='@/blog/_index.md') }}">posts</a></p>
 {% endblock content %}
+
+
+

@@ -6,7 +6,12 @@
   <title>MyBlog</title>
 </head>
 
-</html>
+<body>
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+
 
 <head>
     <meta charset="UTF-8">
@@ -15,10 +20,7 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 
-<body>
-    <main>
-        {% block content %}{% endblock content %}
-    </main>
-</body>
+</html>
+
 
 

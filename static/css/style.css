@@ -26,5 +26,13 @@ p, ul, ol, li {
     text-align: left;
 }
 
-
+/* Special styling for the homepage (tampers with index.html file)*/
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Makes it take full viewport height */
+    text-align: center; /* Centers text inside */
+}
 
