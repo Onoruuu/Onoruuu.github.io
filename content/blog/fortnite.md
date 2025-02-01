@@ -1,5 +1,5 @@
 +++
-title = fortnite
+title = "fortnite"
 date = 2025-02-01
 +++
 
