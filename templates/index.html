@@ -5,8 +5,14 @@
 <main class="home">
 	<h1 class="title">	
 		welcome to my headspace.
-</h1>
-	<p><a href="{{ get_url(path='@/blog/_index.md') }}">posts</a></p>
+	</h1>
+
+	<!-- made newline for each - horizontal layout 4 homepage --> 
+	<p>	
+		<a href="{{ get_url(path='@/blog/_index.md') }}">posts</a> 
+		<span>  </span>
+		<a href="{{ get_url(path='@/about-me.md') }}">about</a>
+	</p>
 {% endblock content %}
 
 
