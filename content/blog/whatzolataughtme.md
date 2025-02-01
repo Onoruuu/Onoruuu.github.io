@@ -22,8 +22,6 @@ writing in markdown is very easy. No html. Thank God for SSG's.
 
 Despite how "simple" this thing is suppoesd to be, it's pretty challenging for me, a total noob to computer science.
 
-s
-
 But I'm glad. I learned so many minute lessons that I Just cant list but they are stored in the back of my subconscious mind because I"ve learned those lessons through strife and pain and frustration. 
 
 Thank you to chatgpt and deepseek for helping me learn this shit. 
