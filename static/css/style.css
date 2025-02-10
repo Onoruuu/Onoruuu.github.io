@@ -1,6 +1,6 @@
 /* static/css/style.css */
 body {
-    font-family: "IBM Plex Mono", "Courier New", monospace;
+    font-family: "JetBrains Mono", "Courier New", monospace;
     background-color: black; /* Optional: Keeps the dark theme */
     color: #ffffff; /* Optional: Matches the green text */
 }
@@ -35,4 +35,3 @@ p, ul, ol, li {
     height: 100vh; /* Makes it take full viewport height */
     text-align: center; /* Centers text inside */
 }
-
