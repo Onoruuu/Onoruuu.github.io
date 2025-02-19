@@ -35,3 +35,12 @@ p, ul, ol, li {
     height: 100vh; /* Makes it take full viewport height */
     text-align: center; /* Centers text inside */
 }
+
+/* special styling to keep images in size */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
