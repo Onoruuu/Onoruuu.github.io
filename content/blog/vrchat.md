@@ -20,6 +20,4 @@ people deserve better, the world deserves better. so much can be changed. we are
 
 and I guess what hurts the most is the suffering people have to go through because of our inefficient systems.
 
----
 
-this post was written as a prompt to chatgpt. was in the process of learning vim but somehow the conversation ended up philosophical. then this blurb came out.
