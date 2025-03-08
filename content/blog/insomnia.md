@@ -1,5 +1,5 @@
 +++
-title = "curing insomnia"
+title = "dealing with insomnia"
 date = "2025-03-08"
 +++
 
