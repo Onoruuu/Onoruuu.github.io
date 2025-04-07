@@ -3,6 +3,10 @@ title = "productivity workflow 2025"
 date = "2025-02-18"
 +++
 
+**warning: this post is outdated as fuuuck. my system is very different now. Maybe I'll make a post in the future about it. Whatever the case, remember that what you have is probably already good enough.**
+
+
+
 I have a simple, 3-layer productivity system that I use to get stuff done, both personal and school. What I like about it is that, similar to blocks of Legos, you can keep endlessly unraveling and refining the system, and optimizations happen naturally as you use it, removing the need to be rigid and configure it all at once before starting. There’s a base I give you, and then some building blocks.
 
 To preface this, I’ve tried [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management), used Obsidian for 2 years, and briefly had an [antinet](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/). The rabbit hole is deep, and I’ve come to learn that in reality, obsessing over these things doesn’t actually matter that much. What plays a bigger role in your being productive is setting the intention to live a meaningful and purposeful life. The system you use only does like 10 percent of the heavy lifting for you. The rest is up to you. So don’t take this stuff too seriously.
