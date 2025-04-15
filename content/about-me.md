@@ -5,7 +5,7 @@ template = "page.html" # explicitly telling zola to use page.html
 
 Hey there!
 
-I'm Onoruuu.
+I'm Onoruu.
 
 currently a philosophy student at university, though I really want to switch to cs! I love both philosophy and cs just as much, and it's really cool to combine both technology and philosophy, probably a common theme you'll see throughout my blog posts.
 
