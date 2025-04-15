@@ -49,4 +49,28 @@ img {
     height: auto;
     display: block;
     margin: 0 auto;
+
+}
+
+/* special styling for blog page so that date is displayed above posts */
+
+.blog-list {
+    list-style: none;
+    padding: 0;
+}
+
+.blog-entry {
+    margin-bottom: 1.5rem;
+}
+
+.blog-date {
+    display: block;
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.2rem;
+}
+
+.blog-title {
+    display: block;
+    font-size: 1.1em;
 }

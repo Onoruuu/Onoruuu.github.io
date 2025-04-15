@@ -4,11 +4,14 @@
 <h1 class="title">
   {{ section.title }}
 </h1>
-<ul>
-  <!-- If you are using pagination, section.pages will be empty.
-       You need to use the paginator object -->  
+<ul class="blog-list">
   {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <li>
+    <div class="blog-entry">
+      <span class="blog-date">{{ page.date | date(format="%B %d, %Y") }}</span>
+      <a href="{{ page.permalink | safe }}" class="blog-title">{{ page.title }}</a>
+    </div>
+  </li>
   {% endfor %}
 </ul>
 {% endblock content %}
