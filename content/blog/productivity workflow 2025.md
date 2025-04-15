@@ -3,8 +3,7 @@ title = "productivity workflow 2025"
 date = "2025-02-18"
 +++
 
-**warning: this post is outdated as fuuuck. my system is very different now. Maybe I'll make a post in the future about it. Whatever the case, remember that what you have is probably already good enough.**
-
+**NOTE: this post is outdated. my system is very different now, lol.**
 
 
 I have a simple, 3-layer productivity system that I use to get stuff done, both personal and school. What I like about it is that, similar to blocks of Legos, you can keep endlessly unraveling and refining the system, and optimizations happen naturally as you use it, removing the need to be rigid and configure it all at once before starting. There’s a base I give you, and then some building blocks.
