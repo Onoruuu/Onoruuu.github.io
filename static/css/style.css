@@ -1,6 +1,12 @@
 /* static/css/style.css */
+
+:root {
+  --mono-font: 'Fira Mono', monospace;
+}
+
 body {
-    font-family: "JetBrains Mono", monospace;
+/*    font-family: "JetBrains Mono", monospace; */
+    font-family: var(--mono-font);
     background-color: black; /* Optional: Keeps the dark theme */
     color: #ffffff; /* Optional: Matches the green text */
 }
