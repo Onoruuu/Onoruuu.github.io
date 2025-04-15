@@ -11,7 +11,6 @@ I like analogies. I find that they are very helpful for understanding life and r
 
 NixOS, something logical and nerdy. And life, something chaotic, mysterious, and unpredictable. Wouldn't it be so weird and wacky to combine these two together? To see where NixOS's design philosophy could apply into life?
 
-&nbsp;
 
 I think that in general, computers do make good analogies to life. For example, something I've always consistently told myself was the power of "jailbreaking my mind". When you jailbreak something, you unlock new and interesting features, never perceived before. You know that quote, "You don't know what you don't know"? The case is with your mind. Notice what happens when you gain an insight. 
 
@@ -21,15 +20,11 @@ Those kinds of paradigm shifts are powerful, because the only reason you are stu
 
 Anyways, jailbreaking your mind means unlocking the artifical limits you place on yourself with your mind. "Change the way you see things, and the things you see will change." The reason jailbreaking works so well as an analogy is because to jailbreak a phone for example means to subtly work around what is given and obvious. The same is with life. In order to grow, you must implicitly sense something beyond just the usual daily routine you go about, and sort of "jump outside" yourself; examine yourself from a higher perspective, and see whats not working from a detached state.
 
-&nbsp;
-
 But back to nixOS. What makes nixOS so special? Obviously, it's declarative management which allows for immutability, reproducibility, and all those other buzzwords. 
 
 Declarative management is so special because you define your operating system and its components clearly and explicitly in one or more files which is usually located in /etc/nixos (or anywhere if you are using flakes!!). 
 
 Whilst contemplating this whole nixos life analogy thing, I realized something:
-
-&nbsp;
 
 **The greatness of NixOS lies in its clarity.**
 
@@ -42,7 +37,6 @@ There's this quote from the tao te ching, and I want you to pay very close atten
 > To glimpse the secret of the Tao, \
 > you must keep still and quiet your mind." 
 
-&nbsp;
 
 Think about how typical linux/unix systems work. Or hell, even windows. You download shit on the web or via desired package manager, and sometimes those things make changes to your system outside of your consciousness, which can sometimes be irreversible. Over time, your system gets polluted and messy, and you start experiencing system rot. 
 
@@ -50,7 +44,6 @@ It just feels like your are choking and grasping for air. When shit starts to ge
 
 The point is that you are running around. You are putting out fires. And in doing so you get lost in life's external details. I am transitioning from operating systems to life here. Think about how most of us live. It's the same as our typical operating systems! We do things unconsciously without intent. We hoard material items. We create bonds and ties that then weigh us down in the future, and we are forever stuck trying to fight against those in a hopeless struggle. 
 
-&nbsp;
 
 In doing all this, we are lost in the world without. 
 
@@ -64,7 +57,6 @@ So if you want to live life the NixOS way, you must live with **clarity**.
 
 This means you declare your life, in the same way you declare your operating system with nix and it's functional progamming language. 
 
-&nbsp;
 
 NixOS often gets a bad rep for its esoteric programming language, but everyone who uses nixOS says that once you learn it, it is so worth it because it saves so much more time in the end. Learning the language is a hurdle, and it's confusing and mysterious, but once it's done you are left with something amazing.
 

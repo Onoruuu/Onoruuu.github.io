@@ -3,26 +3,6 @@ title = "software minimalism"
 date = "2025-04-07"
 +++
 
-I’m the queen of broken toys
-
-The music box that don’t make noise
-
-The friends I don’t have think it’s weird
-
-I keep the things that disappear
-
-I fall in love with broken glass
-
-And wipe dust off of
-
-paperbacks
-
-I’m afraid of letting go
-
-So I hold on to [Mementos](https://www.youtube.com/watch?v=031vCHY-zLA)
-
----
-
 Just recently I moved back from my dorm and into my parents house as the school year has ended, and I realized that I just had so much.... *shit*, laying around everywhere. 
 
 So I decided to get rid of it. I decided that I wanted a clear mind. It's a new chapter of my life, and I needed a physical space that allows for deep solitude and reflection, not one that stresses me out and makes me run around dealing with things. 
