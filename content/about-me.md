@@ -13,3 +13,6 @@ this website is my own little corner of real estate on the internet.
 
 Hope you enjoy your stay!
 
+(P.S - Feel free to reach out to me on discord @onoruuu. Whether you liked something I wrote or hated it, I am open to any feedback. Anything you say is okay!)
+
+
