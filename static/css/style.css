@@ -1,6 +1,6 @@
 /* static/css/style.css */
 body {
-    font-family: "JetBrains Mono", "Courier New", monospace;
+    font-family: "JetBrains Mono", monospace;
     background-color: black; /* Optional: Keeps the dark theme */
     color: #ffffff; /* Optional: Matches the green text */
 }
