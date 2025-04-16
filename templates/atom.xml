@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ config.title }}</title>
+    {% if config.description %}
+    <subtitle>{{ config.description }}</subtitle>
+    {% endif %}
+    <link href="{{ feed_url | safe }}" rel="self"/>
+    <link href="{{ config.base_url | safe }}"/>
+    <generator>Zola</generator>
+    <updated>{{ last_updated | date(format="%+") }}</updated>
+    <id>{{ feed_url | safe }}</id>
+    {% for page in pages %}
+    <entry>
+        <title>{{ page.title }}</title>
+        <link href="{{ page.permalink | safe }}"/>
+        <id>{{ page.permalink | safe }}</id>
+        <updated>{{ page.updated | default(value=page.date) | date(format="%+") }}</updated>
+        <content type="html">{{ page.content | markdown | safe }}</content>
+    </entry>
+    {% endfor %}
+</feed>

@@ -1,4 +1,3 @@
-
 {% extends "base.html" %}
 
 {% block content %}
@@ -12,7 +11,10 @@
 		<a href="{{ get_url(path='@/blog/_index.md') }}">posts</a> 
 		<span>  </span>
 		<a href="{{ get_url(path='@/about-me.md') }}">about</a>
+		<span>  </span>
+		<a href="{{ get_url(path='atom.xml') }}">rss</a>
 	</p>
+</main>
 {% endblock content %}
 
 
