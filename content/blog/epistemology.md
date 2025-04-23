@@ -19,7 +19,7 @@ Yet notice that both of them are equally true.
 
 ---
 
-We live in a society that prioritizes polarizing views over lived experience. Life can only be understood by being sensitive to the finely tuned nuances that underlie our sense of reality. This takes several years or even decades of practice.
+We live in a society that prioritizes polarizing views over lived experience. Life can only be understood by being sensitive to the finely tuned nuances that underly our sense of reality. This takes several years or even decades of practice.
 
 Balanced views are overlooked by polarizing ones because polarizing ideas are easier to hold and require less cognitive work, understanding, and nuance. 
 
