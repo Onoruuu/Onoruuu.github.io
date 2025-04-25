@@ -4,12 +4,10 @@ date = "2025-04-24"
 +++
 
 <iframe 
-    width="100%" 
-    height="166" 
-    scrolling="no" 
-    frameborder="no" 
-    allow="autoplay" 
-    src="https://soundcloud.com/the1975/the-man-who-married-a-robot">
+    src="https://open.spotify.com/embed/track/48ndiF5dcv7WWm8KBcSm2X" 
+    frameborder="0" 
+    allowtransparency="true" 
+    allow="encrypted-media">
 </iframe>
 
 take a second to comprehend how beautiful the internet is.
