@@ -3,16 +3,31 @@ title = "about me"
 template = "page.html" # explicitly telling zola to use page.html
 +++
 
-Hey there!
+insert irrelevant list of interests here that will be forgotten in the next minute!!!
 
-I'm Onoruu.
+I like anime, computers, philosophy, music, etc etc. You've heard the same re-iteration elsewhere, I'm sure.
 
-currently a philosophy student at university, though I really want to switch to cs! I love both philosophy and cs just as much, and it's really cool to combine both technology and philosophy, probably a common theme you'll see throughout my blog posts.
+Really, what am I to you? I'm just a fleeting moment in your lifespan. A flicker. This website is my essence, and it will only be held in your consciousness for a short period of time.
 
-this website is my own little corner of real estate on the internet. 
+I will disappear into the void of everything else you've ever read or seen on the internet.
 
-Hope you enjoy your stay!
+What difference does it make who I am? The computer has communicated itself to you, under different names, different people, but really, it's all the same. there are no individuals here, just one being; the internet, and only the internet. 
 
-(P.S - Feel free to reach out to me on discord @onoruuu. Whether you liked something I wrote or hated it, I am open to any feedback. Anything you say is okay!)
+It's just you and the screen, forever and ever. You will laugh, you will cry, and it'll be your entire life. 
+
+we are in the wired.
+
+we are all lain......
+
+jk!!!
+
+Atleast from my perspective, I'm living an actual life, eating actual food, sleeping in an actual bed. But who knows? I could be lying about all of that. There could be no "me" in your universe, only you, forever alone. 
+
+if you want to reach out to the said imaginary me, feel free to hit me up on discord @onoruuu, anything you have to say will be worthwile, and your perspective matters.
+
+
+
+
+
 
 
