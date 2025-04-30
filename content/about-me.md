@@ -21,13 +21,4 @@ we are all lain......
 
 jk!!!
 
-Atleast from my perspective, I'm living an actual life, eating actual food, sleeping in an actual bed. But who knows? I could be lying about all of that. There could be no "me" in your universe, only you, forever alone. 
-
-if you want to reach out to the said imaginary me, feel free to hit me up on discord @onoruuu, anything you have to say will be worthwile, and your perspective matters.
-
-
-
-
-
-
-
+if u wanna talk about anything hmu @onoruuu on discord!!! 
