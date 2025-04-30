@@ -21,4 +21,4 @@ we are all lain......
 
 jk!!!
 
-if u wanna talk about anything hmu @onoruuu on discord!!! 
+if you wanna talk about anything feel free to hit me up @onoruuu on discord!!! 
