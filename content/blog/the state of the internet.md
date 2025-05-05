@@ -17,7 +17,7 @@ If I just continue to go on and on about how the current state of the internet s
 
 See, the problem isn't actually the internet. It's not the corporations and their evil intentions, it's not AI, it's you!
 
-What the internet actually is a machine of mass thought. Rapid thought. Thought that can be served to you faster then you could ever experience in real life. The internet allows you to browse through thousands of years of history, all of humanities discoveries, and all the knowledge that society has and is currentl acquiring. It's this hyperspace that connects your consciousness to the rest of society's.
+What the internet actually is a machine of mass thought. Rapid thought. Thought that can be served to you faster then you could ever experience in real life. The internet allows you to browse through thousands of years of history, all of humanities discoveries, and all the knowledge that society has and is currently acquiring. It's this hyperspace that connects your consciousness to the rest of society's.
 
 People obviously recognize that the internet in it's current state is a problem. We all know that. But then what they proceed to do is continue to philosophize about the internet and worry about the future or yearn for the nostalgia of the past of the "old internet". 
 
