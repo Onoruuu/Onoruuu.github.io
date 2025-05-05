@@ -15,13 +15,9 @@ You are actually more effective and productive when you are slower. That old par
 
 I think that lots of us just have all these wars over the best software to use—like Emacs, Vim, etc. As cliché as it is, in the end, it doesn't really matter what you use. What matters is your relationship to computing and computers in general.
 
----
-
 Look at the structure of something rather than its content. When you are lost in the content of something, you only change what's at the surface. But when you change the structure of something, that's where you can get real results.
 
 You can change the top of a building by adding more floors or redesigning the roof or the upper structure, but nothing fundamentally changes about the building. That is, until you start messing with the foundation—then the entire thing can collapse!
-
----
 
 I think most people who get into computer science eventually become cold and hard-headed about things because it can be a vortex you get sucked into of just chasing the fastest and best thing. But it's perhaps better to take a nurturing attitude towards yourself, life, and your coding if you want the most harmonious relationship between everything. It's a win-win for you, your productivity, and everything else.
 
