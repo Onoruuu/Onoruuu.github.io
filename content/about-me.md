@@ -19,6 +19,3 @@ we are in the wired.
 
 we are all lain......
 
-jk!!!
-
-if you wanna talk about anything feel free to hit me up @onoruuu on discord!!! 
