@@ -26,6 +26,7 @@ little gems and artifacts i've found adventuring the internet. forever a work in
 - [vnpower](https://loang.net/~vnpower/)
 - [d-rens](https://d-rens.xyz/)
 - [cadence](https://cadence.moe/)
+- [thricegreat](https://thricegreat.neocities.org)
 - [maggotgirl](https://maggotgirl2002.neocities.org/articles)
     - incredibly graphic writing that manages to scratch your brain. favorite piece: **limerence**. 
 
