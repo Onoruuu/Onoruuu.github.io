@@ -30,11 +30,15 @@ little gems and artifacts i've found adventuring the internet. forever a work in
 - [maggotgirl](https://maggotgirl2002.neocities.org/articles)
     - incredibly graphic writing that manages to scratch your brain. favorite piece: **limerence**. 
 - [summerstorms](https://summerstorms.me/)
-    - i think [this](https://summerstorms.me/Scraps/Pompeii) is fucking hilarious. 
+    - [this](https://summerstorms.me/Scraps/Pompeii) is fucking hilarious. 
 
 #### music:
 - [spacecyberia](https://svpacyberia.com/) (record label that coincidentally is a part of like half the anime dnb ive downloaded)
 - [music-college-tv](https://www.youtube.com/watch?v=GzQtr5-ckvo&list=PLImrzCNnL5PmV3z0u0Xlh3h5-infDQsmr) (100+ videos teaching electric guitar. no advertising, no bs, absolutely amazing)
+
+#### misc
+- [fmhy](https://fmhy.net/)
+
 
 
 
