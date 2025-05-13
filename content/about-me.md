@@ -2,6 +2,7 @@
 title = "about me"
 template = "page.html" # explicitly telling zola to use page.html
 +++
+beep boop!
 
 insert irrelevant list of interests here that will be forgotten in the next minute!!!
 
