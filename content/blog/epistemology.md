@@ -3,6 +3,10 @@ title =  "epistemology"
 date = "2025-04-20"
 +++
 
+**this post featured a piss-poor example and point. Going to remake this in the future with something stronger, cuz its just such an important topic.**
+
+---
+
 "Small, consistent action is the key to success in life."
 
 Okay.
