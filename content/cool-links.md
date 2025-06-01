@@ -30,6 +30,7 @@ little gems and artifacts i've found adventuring the internet. forever a work in
 - [thricegreat](https://thricegreat.neocities.org)
 - [summerstorms](https://summerstorms.me/)
     - [this](https://summerstorms.me/Scraps/Pompeii) is fucking hilarious. 
+- [literature girl](https://literaturegirl.neocities.org/)
 
 #### music:
 - [spacecyberia](https://svpacyberia.com/) (record label that coincidentally is a part of like half the anime dnb ive downloaded)

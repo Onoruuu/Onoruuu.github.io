@@ -11,7 +11,7 @@ As I was setting the URLs up, I realized something amazing about this whole proc
 
 Something I've been concerned about from the start with doing a thing like this is confirmation bias. d-rens wrote about his own [experience](https://d-rens.xyz/notes/news/) with exclusively using an RSS reader to consume news and media, and he mentioned how it did turn into somewhat of an echo chamber. It's great that he became conscious of it, though.
 
-To counter this, I decided to make a section called "@Disagree," in which I actively put a list of media that I disagree with. This is part of maintaining a practice of [healthy epistemology](https://onoruuu.github.io/blog/epistemology/), or "epistemic hygiene."
+To counter this, I decided to make a section called "Disagree", in which I actively put a list of media that I disagree with. This is part of maintaining a practice of [healthy epistemology](https://onoruuu.github.io/blog/epistemology/), or "epistemic hygiene."
 
 This is what allowed me to really see my worldview from a big picture—not just the things I liked, but also the things I disliked.
 
