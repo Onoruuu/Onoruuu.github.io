@@ -18,6 +18,8 @@ little gems and artifacts i've found adventuring the internet. forever a work in
 - [a_lilian](https://www.youtube.com/@a_lilian)
     - beep boop!
 - [steinful](https://www.youtube.com/@steinful)
+- [canadian in a t-shirt](https://www.youtube.com/channel/UCSadrZbocL562URt0QDF3eA)
+    - absolute gold for learning about personal finances.
 
 
 #### blogs:
